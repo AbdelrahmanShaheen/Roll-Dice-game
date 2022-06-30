@@ -17,3 +17,8 @@
 **Player-2 wins**
 ![Player2-winner](https://user-images.githubusercontent.com/77184432/176587775-71025a93-500b-4490-bc5e-5cb864ad1841.png)
 
+## Deployment/Live Demo
+[roll-dice-game](https://roll-dice-game6.netlify.app/)
+
+## Screen record
+[roll-dice-video](https://www.youtube.com/watch?v=jvpWn5Rxtd4)
