@@ -7,7 +7,7 @@
 - The player can choose to 'Hold', which means that his ROUND score gets added to his GLOBAL score. After that, it's the next player's turn.
 - The first player to reach 100 points on GLOBAL score wins the game, and his/him color turned black.
 
-##Screenshots
+## Screenshots
 **The Starting**
 ![Start](https://user-images.githubusercontent.com/77184432/176587573-aebf2520-032c-4e88-b26c-8798000a2b40.png)
 **During Playing**
