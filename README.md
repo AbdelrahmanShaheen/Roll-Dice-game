@@ -1,5 +1,8 @@
 # Roll-Dice-game
 **Simple two player dice game. Once the user clicks on Roll the Dice button, the dice will get thrown randomly, so that player 1 and player 2 both have their own dice values.**
+- The HTML and CSS are already provided by Jonas Schmedtmann and the Javascript work is done by me.
+- Not responsive.
+
 ## GAME RULES
 - The game has 2 players, playing in rounds.
 - In each turn, a player rolls a dice as many times as he wishes. Each result get added to his ROUND score.
